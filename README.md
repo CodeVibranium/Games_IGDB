@@ -1,6 +1,6 @@
  # IGDB
  
- ## Internet Games Data base
+ ## Internet Games Database
  
  ### What am i learning ?
  1.Redux
