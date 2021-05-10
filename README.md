@@ -2,7 +2,7 @@
  
  ## Internet Games Database
  
- ### What am i learning ?
+ ### My learnings :
  1.Redux
 
 
